@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namdev-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="namdev-rathod" /> </p>
 
-- 🔭 I’m currently working on [AWS](https://www.youtube.com/@namdev.devops)
+- 🔭 I’m currently working on [AWS]
 
 - 🌱 I’m currently learning **AWS, DevOps Tools**
 
@@ -17,14 +17,14 @@
 
 - 📫 How to reach me **namdev.devops@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/namdevrathod/](https://www.linkedin.com/in/namdevrathod/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/namdevrathod/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/namdevrathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="namdevrathod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/namdevrathod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namdevrathod/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/namdevrathod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namdevrathod/" height="30" width="40" /></a>
 <a href="https://medium.com/@namdev.devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@namdev.devops" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@namdev.devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@namdev.devops" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@namdev.devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@namdev.devops" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
